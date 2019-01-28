@@ -1,5 +1,6 @@
 # Model Predictive Control of a Simulated Car
 Project: CarND-Controls-MPC / Self-Driving Car Engineer Nanodegree Program
+
 written by Mario Lüder
 
 [//]: # (Image References)
